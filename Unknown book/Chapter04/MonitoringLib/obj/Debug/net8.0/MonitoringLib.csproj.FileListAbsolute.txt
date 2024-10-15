@@ -1,0 +1,11 @@
+F:\Extra Virus\ASPNET\Chapter04\MonitoringLib\bin\Debug\net8.0\MonitoringLib.deps.json
+F:\Extra Virus\ASPNET\Chapter04\MonitoringLib\bin\Debug\net8.0\MonitoringLib.dll
+F:\Extra Virus\ASPNET\Chapter04\MonitoringLib\bin\Debug\net8.0\MonitoringLib.pdb
+F:\Extra Virus\ASPNET\Chapter04\MonitoringLib\obj\Debug\net8.0\MonitoringLib.GeneratedMSBuildEditorConfig.editorconfig
+F:\Extra Virus\ASPNET\Chapter04\MonitoringLib\obj\Debug\net8.0\MonitoringLib.AssemblyInfoInputs.cache
+F:\Extra Virus\ASPNET\Chapter04\MonitoringLib\obj\Debug\net8.0\MonitoringLib.AssemblyInfo.cs
+F:\Extra Virus\ASPNET\Chapter04\MonitoringLib\obj\Debug\net8.0\MonitoringLib.csproj.CoreCompileInputs.cache
+F:\Extra Virus\ASPNET\Chapter04\MonitoringLib\obj\Debug\net8.0\MonitoringLib.dll
+F:\Extra Virus\ASPNET\Chapter04\MonitoringLib\obj\Debug\net8.0\refint\MonitoringLib.dll
+F:\Extra Virus\ASPNET\Chapter04\MonitoringLib\obj\Debug\net8.0\MonitoringLib.pdb
+F:\Extra Virus\ASPNET\Chapter04\MonitoringLib\obj\Debug\net8.0\ref\MonitoringLib.dll

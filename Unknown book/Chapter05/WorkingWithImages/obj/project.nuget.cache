@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "WJdXwyC8JRWXa10EMpuRyu/u5pbPpjOachwsTT3860Zw36vayfVqfiNtgEiEE/0zcOkIOHvJXU8kDLcU6XVKZQ==",
+  "success": true,
+  "projectFilePath": "F:\\Extra Virus\\C#\\Chapter05\\WorkingWithImages\\WorkingWithImages.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\taqui\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\taqui\\.nuget\\packages\\sixlabors.imagesharp\\2.1.0\\sixlabors.imagesharp.2.1.0.nupkg.sha512",
+    "C:\\Users\\taqui\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\taqui\\.nuget\\packages\\system.text.encoding.codepages\\5.0.0\\system.text.encoding.codepages.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

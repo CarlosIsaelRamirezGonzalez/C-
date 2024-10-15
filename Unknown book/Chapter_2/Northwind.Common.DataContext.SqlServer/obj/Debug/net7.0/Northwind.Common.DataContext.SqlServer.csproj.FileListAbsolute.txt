@@ -1,0 +1,15 @@
+C:\Users\taqui\Downloads\Platzi Cursos\Programacion\Extra Virus\ASPNET\Chapter_2\Northwind.Common.DataContext.SqlServer\bin\Debug\net7.0\Northwind.Common.DataContext.SqlServer.deps.json
+C:\Users\taqui\Downloads\Platzi Cursos\Programacion\Extra Virus\ASPNET\Chapter_2\Northwind.Common.DataContext.SqlServer\bin\Debug\net7.0\Northwind.Common.DataContext.SqlServer.dll
+C:\Users\taqui\Downloads\Platzi Cursos\Programacion\Extra Virus\ASPNET\Chapter_2\Northwind.Common.DataContext.SqlServer\bin\Debug\net7.0\Northwind.Common.DataContext.SqlServer.pdb
+C:\Users\taqui\Downloads\Platzi Cursos\Programacion\Extra Virus\ASPNET\Chapter_2\Northwind.Common.DataContext.SqlServer\obj\Debug\net7.0\Northwind.Common.DataContext.SqlServer.csproj.AssemblyReference.cache
+C:\Users\taqui\Downloads\Platzi Cursos\Programacion\Extra Virus\ASPNET\Chapter_2\Northwind.Common.DataContext.SqlServer\obj\Debug\net7.0\Northwind.Common.DataContext.SqlServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taqui\Downloads\Platzi Cursos\Programacion\Extra Virus\ASPNET\Chapter_2\Northwind.Common.DataContext.SqlServer\obj\Debug\net7.0\Northwind.Common.DataContext.SqlServer.AssemblyInfoInputs.cache
+C:\Users\taqui\Downloads\Platzi Cursos\Programacion\Extra Virus\ASPNET\Chapter_2\Northwind.Common.DataContext.SqlServer\obj\Debug\net7.0\Northwind.Common.DataContext.SqlServer.AssemblyInfo.cs
+C:\Users\taqui\Downloads\Platzi Cursos\Programacion\Extra Virus\ASPNET\Chapter_2\Northwind.Common.DataContext.SqlServer\obj\Debug\net7.0\Northwind.Common.DataContext.SqlServer.csproj.CoreCompileInputs.cache
+C:\Users\taqui\Downloads\Platzi Cursos\Programacion\Extra Virus\ASPNET\Chapter_2\Northwind.Common.DataContext.SqlServer\obj\Debug\net7.0\Northwind.Common.DataContext.SqlServer.dll
+C:\Users\taqui\Downloads\Platzi Cursos\Programacion\Extra Virus\ASPNET\Chapter_2\Northwind.Common.DataContext.SqlServer\obj\Debug\net7.0\refint\Northwind.Common.DataContext.SqlServer.dll
+C:\Users\taqui\Downloads\Platzi Cursos\Programacion\Extra Virus\ASPNET\Chapter_2\Northwind.Common.DataContext.SqlServer\obj\Debug\net7.0\Northwind.Common.DataContext.SqlServer.pdb
+C:\Users\taqui\Downloads\Platzi Cursos\Programacion\Extra Virus\ASPNET\Chapter_2\Northwind.Common.DataContext.SqlServer\obj\Debug\net7.0\ref\Northwind.Common.DataContext.SqlServer.dll
+C:\Users\taqui\Downloads\Platzi Cursos\Programacion\Extra Virus\ASPNET\Chapter_2\Northwind.Common.DataContext.SqlServer\bin\Debug\net7.0\Northwind.Common.EntityModels.SqlServer.dll
+C:\Users\taqui\Downloads\Platzi Cursos\Programacion\Extra Virus\ASPNET\Chapter_2\Northwind.Common.DataContext.SqlServer\bin\Debug\net7.0\Northwind.Common.EntityModels.SqlServer.pdb
+C:\Users\taqui\Downloads\Platzi Cursos\Programacion\Extra Virus\ASPNET\Chapter_2\Northwind.Common.DataContext.SqlServer\obj\Debug\net7.0\Northwind.Common.DataContext.SqlServer.csproj.CopyComplete

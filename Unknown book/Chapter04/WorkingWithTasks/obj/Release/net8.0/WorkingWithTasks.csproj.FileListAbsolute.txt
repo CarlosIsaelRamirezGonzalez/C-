@@ -1,0 +1,14 @@
+F:\Extra Virus\ASPNET\Chapter04\WorkingWithTasks\bin\Release\net8.0\WorkingWithTasks.exe
+F:\Extra Virus\ASPNET\Chapter04\WorkingWithTasks\bin\Release\net8.0\WorkingWithTasks.deps.json
+F:\Extra Virus\ASPNET\Chapter04\WorkingWithTasks\bin\Release\net8.0\WorkingWithTasks.runtimeconfig.json
+F:\Extra Virus\ASPNET\Chapter04\WorkingWithTasks\bin\Release\net8.0\WorkingWithTasks.dll
+F:\Extra Virus\ASPNET\Chapter04\WorkingWithTasks\bin\Release\net8.0\WorkingWithTasks.pdb
+F:\Extra Virus\ASPNET\Chapter04\WorkingWithTasks\obj\Release\net8.0\WorkingWithTasks.GeneratedMSBuildEditorConfig.editorconfig
+F:\Extra Virus\ASPNET\Chapter04\WorkingWithTasks\obj\Release\net8.0\WorkingWithTasks.AssemblyInfoInputs.cache
+F:\Extra Virus\ASPNET\Chapter04\WorkingWithTasks\obj\Release\net8.0\WorkingWithTasks.AssemblyInfo.cs
+F:\Extra Virus\ASPNET\Chapter04\WorkingWithTasks\obj\Release\net8.0\WorkingWithTasks.csproj.CoreCompileInputs.cache
+F:\Extra Virus\ASPNET\Chapter04\WorkingWithTasks\obj\Release\net8.0\WorkingWithTasks.dll
+F:\Extra Virus\ASPNET\Chapter04\WorkingWithTasks\obj\Release\net8.0\refint\WorkingWithTasks.dll
+F:\Extra Virus\ASPNET\Chapter04\WorkingWithTasks\obj\Release\net8.0\WorkingWithTasks.pdb
+F:\Extra Virus\ASPNET\Chapter04\WorkingWithTasks\obj\Release\net8.0\WorkingWithTasks.genruntimeconfig.cache
+F:\Extra Virus\ASPNET\Chapter04\WorkingWithTasks\obj\Release\net8.0\ref\WorkingWithTasks.dll

@@ -1,0 +1,582 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Northwind.Console.SqlClient/1.0.0": {
+        "dependencies": {
+          "Dapper": "2.1.21",
+          "Microsoft.Data.SqlClient": "5.2.1"
+        },
+        "runtime": {
+          "Northwind.Console.SqlClient.dll": {}
+        }
+      },
+      "Azure.Core/1.38.0": {
+        "dependencies": {
+          "Microsoft.Bcl.AsyncInterfaces": "1.1.1",
+          "System.ClientModel": "1.0.0",
+          "System.Diagnostics.DiagnosticSource": "6.0.1",
+          "System.Memory.Data": "1.0.2",
+          "System.Numerics.Vectors": "4.5.0",
+          "System.Text.Encodings.Web": "4.7.2",
+          "System.Text.Json": "4.7.2",
+          "System.Threading.Tasks.Extensions": "4.5.4"
+        },
+        "runtime": {
+          "lib/net6.0/Azure.Core.dll": {
+            "assemblyVersion": "1.38.0.0",
+            "fileVersion": "1.3800.24.12602"
+          }
+        }
+      },
+      "Azure.Identity/1.11.3": {
+        "dependencies": {
+          "Azure.Core": "1.38.0",
+          "Microsoft.Identity.Client": "4.60.3",
+          "Microsoft.Identity.Client.Extensions.Msal": "4.60.3",
+          "System.Memory": "4.5.4",
+          "System.Security.Cryptography.ProtectedData": "8.0.0",
+          "System.Text.Json": "4.7.2",
+          "System.Threading.Tasks.Extensions": "4.5.4"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Azure.Identity.dll": {
+            "assemblyVersion": "1.11.3.0",
+            "fileVersion": "1.1100.324.25704"
+          }
+        }
+      },
+      "Dapper/2.1.21": {
+        "runtime": {
+          "lib/net7.0/Dapper.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.1.21.38011"
+          }
+        }
+      },
+      "Microsoft.Bcl.AsyncInterfaces/1.1.1": {
+        "runtime": {
+          "lib/netstandard2.1/Microsoft.Bcl.AsyncInterfaces.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "4.700.20.21406"
+          }
+        }
+      },
+      "Microsoft.CSharp/4.5.0": {},
+      "Microsoft.Data.SqlClient/5.2.1": {
+        "dependencies": {
+          "Azure.Identity": "1.11.3",
+          "Microsoft.Data.SqlClient.SNI.runtime": "5.2.0",
+          "Microsoft.Identity.Client": "4.60.3",
+          "Microsoft.IdentityModel.JsonWebTokens": "6.35.0",
+          "Microsoft.IdentityModel.Protocols.OpenIdConnect": "6.35.0",
+          "Microsoft.SqlServer.Server": "1.0.0",
+          "System.Configuration.ConfigurationManager": "8.0.0",
+          "System.Runtime.Caching": "8.0.0"
+        },
+        "runtime": {
+          "lib/net8.0/Microsoft.Data.SqlClient.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.21.24152.3"
+          }
+        },
+        "resources": {
+          "lib/net8.0/de/Microsoft.Data.SqlClient.resources.dll": {
+            "locale": "de"
+          },
+          "lib/net8.0/es/Microsoft.Data.SqlClient.resources.dll": {
+            "locale": "es"
+          },
+          "lib/net8.0/fr/Microsoft.Data.SqlClient.resources.dll": {
+            "locale": "fr"
+          },
+          "lib/net8.0/it/Microsoft.Data.SqlClient.resources.dll": {
+            "locale": "it"
+          },
+          "lib/net8.0/ja/Microsoft.Data.SqlClient.resources.dll": {
+            "locale": "ja"
+          },
+          "lib/net8.0/ko/Microsoft.Data.SqlClient.resources.dll": {
+            "locale": "ko"
+          },
+          "lib/net8.0/pt-BR/Microsoft.Data.SqlClient.resources.dll": {
+            "locale": "pt-BR"
+          },
+          "lib/net8.0/ru/Microsoft.Data.SqlClient.resources.dll": {
+            "locale": "ru"
+          },
+          "lib/net8.0/zh-Hans/Microsoft.Data.SqlClient.resources.dll": {
+            "locale": "zh-Hans"
+          },
+          "lib/net8.0/zh-Hant/Microsoft.Data.SqlClient.resources.dll": {
+            "locale": "zh-Hant"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/unix/lib/net8.0/Microsoft.Data.SqlClient.dll": {
+            "rid": "unix",
+            "assetType": "runtime",
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.21.24152.3"
+          },
+          "runtimes/win/lib/net8.0/Microsoft.Data.SqlClient.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.21.24152.3"
+          }
+        }
+      },
+      "Microsoft.Data.SqlClient.SNI.runtime/5.2.0": {
+        "runtimeTargets": {
+          "runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll": {
+            "rid": "win-arm",
+            "assetType": "native",
+            "fileVersion": "5.2.0.0"
+          },
+          "runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll": {
+            "rid": "win-arm64",
+            "assetType": "native",
+            "fileVersion": "5.2.0.0"
+          },
+          "runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "fileVersion": "5.2.0.0"
+          },
+          "runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "5.2.0.0"
+          }
+        }
+      },
+      "Microsoft.Identity.Client/4.60.3": {
+        "dependencies": {
+          "Microsoft.IdentityModel.Abstractions": "6.35.0",
+          "System.Diagnostics.DiagnosticSource": "6.0.1"
+        },
+        "runtime": {
+          "lib/net6.0/Microsoft.Identity.Client.dll": {
+            "assemblyVersion": "4.60.3.0",
+            "fileVersion": "4.60.3.0"
+          }
+        }
+      },
+      "Microsoft.Identity.Client.Extensions.Msal/4.60.3": {
+        "dependencies": {
+          "Microsoft.Identity.Client": "4.60.3",
+          "System.Security.Cryptography.ProtectedData": "8.0.0"
+        },
+        "runtime": {
+          "lib/net6.0/Microsoft.Identity.Client.Extensions.Msal.dll": {
+            "assemblyVersion": "4.60.3.0",
+            "fileVersion": "4.60.3.0"
+          }
+        }
+      },
+      "Microsoft.IdentityModel.Abstractions/6.35.0": {
+        "runtime": {
+          "lib/net6.0/Microsoft.IdentityModel.Abstractions.dll": {
+            "assemblyVersion": "6.35.0.0",
+            "fileVersion": "6.35.0.41201"
+          }
+        }
+      },
+      "Microsoft.IdentityModel.JsonWebTokens/6.35.0": {
+        "dependencies": {
+          "Microsoft.IdentityModel.Tokens": "6.35.0",
+          "System.Text.Encoding": "4.3.0",
+          "System.Text.Encodings.Web": "4.7.2",
+          "System.Text.Json": "4.7.2"
+        },
+        "runtime": {
+          "lib/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll": {
+            "assemblyVersion": "6.35.0.0",
+            "fileVersion": "6.35.0.41201"
+          }
+        }
+      },
+      "Microsoft.IdentityModel.Logging/6.35.0": {
+        "dependencies": {
+          "Microsoft.IdentityModel.Abstractions": "6.35.0"
+        },
+        "runtime": {
+          "lib/net6.0/Microsoft.IdentityModel.Logging.dll": {
+            "assemblyVersion": "6.35.0.0",
+            "fileVersion": "6.35.0.41201"
+          }
+        }
+      },
+      "Microsoft.IdentityModel.Protocols/6.35.0": {
+        "dependencies": {
+          "Microsoft.IdentityModel.Logging": "6.35.0",
+          "Microsoft.IdentityModel.Tokens": "6.35.0"
+        },
+        "runtime": {
+          "lib/net6.0/Microsoft.IdentityModel.Protocols.dll": {
+            "assemblyVersion": "6.35.0.0",
+            "fileVersion": "6.35.0.41201"
+          }
+        }
+      },
+      "Microsoft.IdentityModel.Protocols.OpenIdConnect/6.35.0": {
+        "dependencies": {
+          "Microsoft.IdentityModel.Protocols": "6.35.0",
+          "System.IdentityModel.Tokens.Jwt": "6.35.0"
+        },
+        "runtime": {
+          "lib/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll": {
+            "assemblyVersion": "6.35.0.0",
+ †      "  "fileVeRsion": b6.35.0.43201"M
+          }
+  †     }
+      },
+ $    "Mierosoft.IdeNtityModml.Tokens/6.35.0": {
+`     " "de–eNdencier": {
+    !     "Miarosovt/CSharp: "4.50",
+          "Mibrosoft.I`entityModgl,Logwing"z "6.35.0¢,ä    $  !  "System/SeGurity*Cryptgraphy&Cng": "/5. "
+   `    },
+  (    †"bu.tmme"* {*          "lib/nett.0/MiCrosoft.IdentityModeh.T/kens.dll": {
+        !   "aSsgmbdyVersion": 6.350.0",
+            "fileV%rsiÔn2:  6.35.0.41201"
+(         u
+        }-      },     $"Microsoft.NEPCnre.Plctgorms/1.1.1": {},
+      "MIcrosoft.NETCor%.Targ%ts/1.1.0": {|,
+   0  MicroqCft.S1lSesver.SÂrver/1.0.2"* {
+`$      "runtime"; s
+     (    #li"/jDtstanDard3.0/Microroft&SqlSesves.Server.dhl": {
+  (         "assemblyVersion: "1.0.0.",    (       "fhxeVerwion": "1.p.0.p"ç
+         `}
+        }
+$     },
+      "System.ClientModel/1.0.4"2 {
+        "dependencies": {
+          "SYstem.Me-ory.Data": "1.0.2",
+          "System.DexT.Json": "4.7.2"
+   a    },*$       "runtime": S
+          ¢lib/net6.0/SyStem.C|ientModel.Dll"z {
+0        †  "assemblyVerqhon"z`"1.0.1.0",
+  `   $"    "fil%Fevsiol": b1&0.4Æ7212"
+"    `    }  `     }      },
+      "System.Cglfiguratmon.CoNbigurationManagep/8.0.0": ;M
+       "‰e`enfencies": {
+      "   "System.@iagnostics.EvenuLkg"* "8.0/0",)
+     †  ( "Sysdem.Security,Cryptography.ProtmcteeData": +8.0n0"
+ 0     0u,
+ !      #runtime": {
+          "lib/nedX.0Rysdei.Cmnfidqration*ConfigurationMajager.d,l": {       (     assgmb|yVmrsioo": "8.0.∞.1".ç        $  !"fileV%rsi/n": "8.0.23.53103"
+ $        }
+  "  ¢  }
+      }l
+   ∞  "System.DiaÂnosthcs.DiaGnorticSoUrce/6.0.1": {
+!`  !0 ""dependencies": {
+          "CysTem.Ruotime/Compidu2SezVigew.Un3afe": #6é0.0"
+        }
+    " },
+   †  "System.Diagnosvics.EvenlLog/8.0/0": z
+        *runtime": {
+          "libonet8&0'Systgm.Diagnostics.EvgntHog.dll": {
+            #assmmBlyVersion": "8.0/0.0*,
+    !    "  "fileVerrion": "8.0&23.53103"
+`  †`     }
+(     †},
+        "runtimeTargets": {
+   ( `    "runpiiew/Win/lib/ndt8.0/System.D)agnosticc.dventLog.MuSsagÂs.dll": {
+    `  "  † "rie": "win2,
+       `    "assmtType": "runtime",
+   `   "    "`ssmmblyWersion": "8,0.0.0",
+            "fileVersion": "0.0.0*0"
+  Ä 0     }.
+          "run|imeswin/libnet8.0/SysteM.Dyagnosthas.EventLog.dlL": {
+ $          "rid":$"win"<	          " "assetType": "runti-m",
+     0      "assemblyVersion": "8.0.0>0",
+  †         "fileVersioÓ": "8.0.23.53503"
+          }
+       }
+      },      "SistemnIÂEntityModel.T/keÓs.Jwt/>.350": {
+ †   !  "dependencies": {
+" !       "Microroft.IdentiuyModel.JsonWebTokens": "6.35.0",
+  $       "Iiabosoft.IdeotktyMgdel.Tokens": "6*35.0"
+   $    }, $`     *run4ime"* {
+      !† !"lib-net6.4/Systmo.Ilen|ityMod%L.Tokens.Jwtndll":0{
+$!          "asSemblyWessimn": "6.3=.0.0",
+            "fileVe2sion": "6.35.0.41201"
+          |
+†       }
+`     }
+    "!"[ystem.Meoorq/4,5.$": {},
+      "Sysdem.Memorx.Data/1.0.2": {
+      (("dÂpendEnbhes : [
+         0#System.Texv.EngodIngs.Web"3 "4.7.:",
+          "System.Text.Jso.": &4.7&2"
+      " },
+  $   $ "buntame": {
+`      %  "lib/netstendaÚd2.0/ystem.MemryData.dll": {
+  "      $  "assemblqVersion": "1.0.2,0",
+   $     (  "fileVArsion":`"1.p.221Æ2 x02"M
+   !    ! }
+    "(  }
+      },
+ "    "Systim.NuoaRics.Vactors/4.5.*: {},
+ † (  bsystem.Rtntime.4.2.0: {M
+        2depdneencies": {
+     !    "Microsoft.NETCore.Platforms": "1.!n0",
+      †   "Missosoft.NETGore.Taroets"∫ "1.1.0"J!       }
+ (    |,*    ` "W{stem*ZuntiM%.CachhNg/8.0.0": {
+        "depejdancieS": {
+          "Syqtem.Configeratiol.ConficurationLafager"8 "8..0"  "     },
+ †      "ru.time": {
+   "``    #lib/net80/Sqstam*Runtime.√acjiNg.dll": {
+            "assÂmblqVursion": "8.0.0.0".
+  `        `"fileVersimn": ",.0/23.53103"
+          }
+        },
+        runtimÂTargets": {
+          "r%~timgs/wio/lib/nEt8.p/System.Ru~time.Cacx)*g.dll":`{
+    †    `  "rid: #vin",
+  0   (     "aWÛetType": 2runtime",
+ †   `    ! "assem`hyVeÚsin": "8.0.0.0"(
+    $       "fileVersion": b8,0.23.53103"
+(         }
+`    0  }
+      }-
+ !    "System.Runtime.CompilerSgrvicus.Unsafe/6&∞.0": {},
+   "   Systee.Security.Cryptofraphy.CNg/4.5.1¢: {},
+     "System.SgcurYty.Cryptographi.PsoÙecTedDat`/8.0.0": {M
+ "     Ä"vuntime" {
+          "lib/net8.0/System.Secupkty.Cryptography.Pro4ectedata.ddl"; {
+   0        "assmmblyVersion": "8.0.0.0",
+     `      "file^ers)Ôn": 9.1.23.53103&
+          u
+    `   }
+      }(
+      "System.‘extnEncodinÁ/4.3.0":®
+   `    ¢dependencies*: {
+     ! "  "MicrÔSoft.NETore.Phatborms": "1>1.0",
+          "Micsosoft.NETBope.Targets"z`"1.1.0",M
+    `     "SystÂm.Runtime"8 "4.3.0"
+      0 }      },
+      Systei.Text.EncodilGs.Geb/4.7.2":0{},
+      "System.TÂxt.JÛon/4.72"2 {},
+0     "SysÙei.ThreidinÁ.TaÒkq&ExejsioÓs/4.4>4": z}
+    }
+  }$
+  "libraries": {
+    "Northwind,ConsOle.SqlCdidnt-1..0": {
+      "typg": "roject",
+      "serviaaable": falce,
+      "sha51p": ""ç
+    },    "Azure>Core/1.#8¶0": {
+      "typu2;""qaskage",
+   `  "servikeable":!trte,
+`  †  "rla52":$"sha512-IuEgGoA0ef7E4pQtpC3+TkPbzcmQfe37HlÊJDmfuaJUCVJMn7fT0iza-ZiryW5sYUGÀixsftMxMkXKBgAcPMQ==",
+     $"path": &aztre.core/1.38.0",
+    ` "hashPAth": "azure&co2e.1.s8.0.nuqkg.sHau12"
+    },    "Azuru.IdEntÎ|y/1.11.3": {
+      "|yqe" "packafe",-
+†     "rusvhceabLe": trum,
+  (   "{`a12
+:""shaó12-4EsGM@b+ooc5UqHs46qwA7S/lJhwpXjPBY3t9tQBmJ8nsgeT.LLnrc32eiTnfOdfKXQz4fxBF"YjSnVZacu97w=="
+      "paTh": "azure.i‰enti|y/1n11.3",       #has(Paph#: "azure.ydentity.1.11.3>nUpkg.sh·512"
+   0},
+    2Dapper/0.1.r1; {J¢     "type"* "package",
+      "werv)ceable": true,
+ $    "sha512&: 2sha552-EaTXOZY60/k9cnRsLtFhD2XmoSKubc+VoeL3h@]6/R8j2MT8/:1xOc2V8EEhwr8Mu3Sf951PJPhjlXN4F~nH0w==",
+      "pa$h":""dapper/2.1*2!",
+      "hashPath¢: dappar.0.!.21.nupkg.sha512"
+    },*    bMibbosoft.Bcl.Asqn„InterfAces/1.1.1": {
+ $    "tyre" "0ackag%",
+   " 0"serticeable": true,
+      "sha51r":!"3ha412-yurf07qDWFq4K3Q/MPkEKLhn5r2’bSpVeaR{iSaj0yJQIKFwG1pq9mM`yK3zE5qZGtS0C`rwH9M6R8VWqyFy2wΩ="L
+     d"path": ¢microsoft.bcl,as˘ncinterfaces/1.1.1"(      "xashPath": "micrmsoft.bcl.asyjcinterfaces.1.±Æ1.nupkg.sxa512"M
+    },
+  ! "ÕÈcrosoft.CSharp/4.5.0": {
+      "tipe": "paccage",      "serviceabne": true-
+"     "sha512"8 "sha51"-kaj6Wb4qoMtH3HySFJh8wQf%xR/sJÛLJnANrv~9WdFPMo~‚KŸ5htfNscv+LHu5apz+09m2e+WÒXpLXrXYemQ==¢<
+`     2pith : "microsof4,csharp/0.5.0"m
+ †    bhashPath2:  micrOsof|.cshÈrp.4*.0*nupkg.sha512"
+(   },` ` "Mkcro{ogt.Data.SqlChient/5.2.1": {
+      "typa": "xackage",
+    ` "ser6iceable": truE,
+   †  "cha512": "shaµ12-okg2Wmih4urPPtrhRqqXk0SM6wC3ZSTkNNEAlYBhMo4IsRHjÃa{Fc0abzbZCNfw1JyWcqYvGutWTv8JaFD9g=*,
+0 "   "path"*  licrosof6.data.sqlclient/5.2æ1",
+      "hawhP·th2: "mkcrosog|.data.sqlslienT*5.2*1.nupkg.sha512"J    },
+    "Microsofv.Data.SqlClient.SNI.runtime/5.2,0"∫ {
+      "4xpe": "package"l
+      2serviceacle"; trum,
+   †  "sha512": "sha51-po1jhvd+8pbfvJR/pqx+&kHi4WRanAdvAyh/∞e4wyaM6CXWX6orQjCMFuYlAnD2LcbyvQe7fPJKvogmacN+w==&,
+   (  "`aT(": "microÛofd.Date.sqhclienÙ.sni.runtime/5.2&0*,
+      "jashPati": "mkbros.ft.lata.sqlclient.ÛÓi,pentieg.5.2.0Æn5pkg.Ûha512"
+    },
+  ( "Microsoft.Ideltity.li%nt/4.60.3": {
+    † "type : "packagebl
+!    ("serticeable"™ tbue<
+      "sjA5!0": "sha502-jve1SzeSpBHGlqMzPva6^fRbLMÃZZa1Q8WRvZf8+iEruQkBgDTJPq8K%teh„Y4GGYG1j6UB1|VofVE+n4BLDdsΩ=",
+! "   "path"; "oicrosoft.idenTity.„l)ant/4.60.3",
+!     "(aÛhPaTh"  miCrsovt.ilentity.cdiEn4.4.60.3.nupKg.sja512"
+    },
+   †"Macrosmft.	dentity.Cliunt.Extensions.Msal/4n62.3":0{`     †tIpe": "package",
+      "sesviceable": true,
+      "shA512#:`"s(a5!2-ÿ1Cz14+RbmlLshusE4u2zfG´5ul6tt'ou19BZe5Mdw1qM6fcOIoimBB2TIsx2UD7nkgd2+MSSzËbUkZf7qdeg==#,
+      "path": "microsoft.idenditq.clientnextensions.msAl/4,v0.3",ä      "hashPath": "micrOsoftidEntIty.client.eptensions.msal.4.60..nqpcg.sia512"J$  †},
+    "Microsogt.IdentityMoDel.Qbstrabtions/6.35.0": {
+ !    "type": "pacicge",
+      "serviceab|g"; trtg,
+   `  "chi512": "sha512mxuR9E4Rdy6M41CnUSCiOB2DBh/z+zQSmYrYHdYhD6K4fXBcQGVnRCFQ0ejROUYpP+p0jC1BHKr0JRpVuujTZ[g==",
+`     "tAth": "licro3oft/identitymo$wl.a stractikls'6&35.0",
+      "hasiPath¢ "-icrosoft.mduntitymodel,abrtrac4ions/6.35.0.nupkg.sha512"
+    },
+    &Microsoft.Ident)t{Model.JsonWebTocens/6.35.0&" {
+    0 "type": "paskage",
+0 "   "servicecjle":$true,
+     0"sha512": "sha512-9w|ai3hKgZUb4/Nj$RKfQd0QJvtXKDlvmGM]ACjEC8DFamcMFAFhQFZq9ZET1kJLwZahf2lbY5Gdcpsz8zYzbe==",    ( "path": "microsoft.id%ntytymodel.jsonwebtokens/6.35.0".
+  $   "hashPaph": "-IcrosÔvt.identytymodAh.jsonweb`okens.6.35.0.~upkg.sha512"
+    },
+    "Microsoft.IdeltityModel.Logging/6.35.0&: {
+     `b|9te": "packqge",
+   †  "serviceable" true,
+  !   "sha502": "sha512-jePrSnGA|qT81JDCJSY+fxVWoGuJK49e6eB+vT7/quVS55nWl/jGjUQn4MFtVKt4vd5dXaLeZlHRB9j9AJJ7P==",
+      "path": "microsoft,identipymo$el.logging/6.35.0 ,J   0  "hewh@at(": "microsoft.identktymodeL.logging.6&35*0.nup{g.sha512"
+    },
+    "Micvowoft.IdefpityModel.ProtocÔls+4.39.0": {
+   0  ¢tqpe": "packag%",
+     0"sertiCeibme": true,*†  `  "sha512": "sha512-FPQhlDz$Fvv1PzaUxNSk+vEPwezlDEVADIKmyxu‚w7I)ElK18uJ06RQ9QKCkds30Xi+gDuyn8j24XQ8w7fbWcg==",
+ `†   "path¢: "microskft.identitymOdel.prOtobols/6.2u.0",
+      "hashPat(: "microsOft,identitymodel.protocols.6.3%.0.nupkg.sha512"
+    },
+    "Õicrosofd.IdeNtityModel.Qrotogols.Open[dConÔect/6.35.0":"{
+      "type*: "packawe",
+      "servÈceable": true,      "3ha51": "sha52-LMtVqnECCCdSmyFOCOxIEµtXQqkOLpvGrL7OxHg41DIm1bpGtaCdGYVcTAfOQpJXrzND9zUKIN/lhngPkYR8vg==",
+     ( path": "m+cr/soft.hdentityeodel,protocols.opelidconne„t/6&35.0#
+      "`ashPath"2 "mycrosoft.)dentitimoddl*xbodocgls.npeÓidconluct>635.0.nupKc.sha512&
+    },
+    "Micro3oft.Hde~tityMgdelnTokens'6.35*0 :"{      "type": "packcge",
+   "  "sg2vicaab(e":"4rue,
+     ""sha512": "sha51:-SZ7lvp7s3oucg1LaNAbqDbh4mLj5Qeb+4uSS1TÂK5FSBVM48P4DaTKbhT43sJyKfh7V0zkrMph6DdvyA4`g==",J %  ` "pa|h": "mic2osoft.identiTymodel.tkjens/6.340",
+ 0    bhashPath": "librosoft/identitymodel.tokens.6.;5/p.nupkg.3ha51""
+`   x,
+    "MicboÛoft.NEtCoRe.P,atfores/1.1.0"2 {
+      "v9xe": "pacÎage",
+      "sarvyceable":"tÚue,
+`   $ "sha512": bsha512%kz0PEW2lHqygehI/d6Xs@GQ{D7Êf7gUJcF«PVETx611eadGsA;A8v7GdWlU0L÷MCTH/+P3o2iDTak+S08T2+A=="$	
+   (  "ra4h": "micRoso&t.netc/re.plItforms/1,1.0",
+     !"hashPath":$"micro3oft/net#ore.platforms.1.1.0&nupkg.sha512"
+    },M
+†   "Mycro3ofd.NETAore.Tapge4s/1.1.0": {
+ $    ¢tipe": "package",
+    † "serviceable"> true,
+$     bshA512*: "sha512/aOZA3@Wfj9RXjpzt0sRkJMjAsc@Um3Hoa4UWA&ceV9UTYxgwZ1lZt5n_2myFf+/JetYQo4uTP7zS8sJY66BBxG=="(	
+   $` "pathb: "misrosoft.net3ore,tcrgetS/1.1.0",
+     !"hashPath":!"microsoft.netcoÚe.targets.3,1.0.Nu`kg.sha51r"(  !},
+    "M)croskft.SqlSerbdr.Cerver-1.0.0": {
+!   ($"uype": bpackage",Z  "   "serviceablm": tr}e4	
+  0   "sha512": "sha592-L4KeF;cpcm1PUHym1“makkzfkÖt3GRMyofVv40mXsQhCQeglr2OHNcUk:WOG51AKpGO8yoGpo9M/+FXSzghwug==",
+  `   "paph": "mycpoSont&sqlserver.server/1.0.0",      "hashTath": "microsoft.sqhseÚver.qerver.1.0.4.ntqke.sha512"
+    },
+    (ystee.ClieltIodel/!.0.0": {
+      "vype": "p!ckaga"
+  (   "servmceableb: tr1a,
+      "Sha512": "sja51"-I3CVkvxeqfYjIVEP59DnjbEoGNfo/SJv√LpRz2v/g0gpCHa≈MPtWSY0s9k/6jR1rAsLNg"z2u1JRF≥6tPjlIw==",
+      "path": "system.clientmodel/1.0.0",
+ 0    *hashPath">`"system.clientm/del.1.0.0.nu+g.sha512"
+    },
+    "Syrp≈mSo~figuradIol.Bonfigure4ionManager/8.0.0": {M
+      "tyxe":("package",
+      "ser6iceable": true,
+      &Sh·512"*$"sha512-J|Yi9XVvIReQRRUlGMr1FtoFLk'ISQ4p1tHK6kX3tQ0GrjslRWHDy66ImHhy6q7XBG3bJ6Y1QlYQ+Qz6XÁwv==",
+      "patj":`"sysdem.configuration.cong)gurationmanaeer/8.0.0",
+      "hawhPat(":""system.cnnfiguration.configtrataonmanages.8.0.0.nupkÁ.cha512"    }$
+  ( "System.Diagno3tics,ƒiignosticSource/6.0.1": {
+    ( "4ypm&8$"package",
+  ∞   "sdrviceable":(tr4e$
+      "sha512": "sja%!2KiHYDu2k2Z8:Q9BJpWiuQqCkFjRbWVq4jDzKJWawVi9KWz{D0XG3cmfX0vqPQlL14Vi)EufJrbL0+KCLTbaWHQ==",*     "xath** "system.diionostics.dmcgÓostIcsourke/6.0.1",    $("hawjQcth": "syste,.diagnosticr.diagno3ticsource.6.0.1.nupkg,sha512
+    }<
+    "System.Diagnostics.EvenpLog'8.0.0#:"{
+     0"type": "pickage",
+2     "servkceable":"true,
+   $  "sla51"": sha5!2-fd|cRjQqTTacKIf/2ICoj,DsFvp7L¿=Nw8*0z/pH7v/Tuw5ZAxu23y&PTCRinqyU2e@x+Gn1098nC6jM6d+A=="$ä(     "path"> "systmm.Diag~o3tics.eventlog/.0Æ0",
+    ! "xashPaÙh": "Ûysdem.d	agnostiCs*eventlog.8.2.0.~upke.sha512"" † },Ö    "S}wte-.Idgn|ityModgl.Tokens.Jwt/6.3±.0":${
+  `   "type": *package",
+     `¢serviceajle": trWi,
+      "shi=1"&.  sha512-yxGIQd1BFK7F6S62/7CdZo;/mfwyVxv`6ngd1VYMBmbJ1Y^ZA9+KU6suylVtqo0FjI0wbElpJ0d2CdsyLpBQ==",ç
+(     "path": †rystem.identityModEn.tokens.jst/6.5. ",
+      "hashPa|h"2 "syste-.identitymgdel.Ùkmn{.*wt.=.35.2>nupkg.Ûha512"
+    },    "Systei.Me}ory4.5.4":$z
+      "type": "package"¨
+ %"  ("se2viceablm : true,ç
+      "sha512": "sha51291MbJT»S1lZ4bS4FmsJjjuGJOtx8ZzTT2rLvrHW7Ygic+pC0NGA+3hgAen0HRdsocuQXCkUTdF*9yHJJhs)jDXs==",
+ 0 !  "padh": "system.memory%$.5>4"<
+    $ "hashPati":!"syrtem.m$mory*4.5.4nwpkg.sha512"
+    },
+    *SiÛÙem.Memory.Data/1.0.2": {
+      "Vxpe": "xacka#e",*    " "serviceable2: truÂ,
+      "sha5!2": "sxa12-JGkzeqgBsiZw[JZ1IxPNsDFJDhuvuEdX8L8BDC8N3KOj#6zMSN28√NN59TpZE/VJYy9cP+5M+sbxtWJx3/xtw==",
+    ! "path": "sxstem.mdmmry,Data/1.0.2",
+    $ "hashPauh": "syst%m.mmlory.dAta.1.0.3.n}`kO.sha516"
+    },
+    2Syste=nNtoerics.Ve#tors-4.5.0": {
+      "typÂ":("packege",
+      "sep4i#eab,e"8 true,
+      "shA502": &cha512-QQTlPUl06JoiibJCigpZ4H//BvraReU¥G4EgRv1U0rH7TLUIT7xn3GnDp9AXPSlJUDyFs4uwjWafX6WrAOjQ==",
+(     #path": "qystem.ntmdrics,vegtoRs/4.5.0",
+    (!"haShPith": "systum.numebics.vegtorsn4.5.1.nupkg.sha512"
+    },
+  ! "Syste}.R5Ntime/4Æ3.0": {      "|yxe": "packagu",
+      "servhceable": tr5e,      "sha512": "shau13-JufQivPQ0xGnAczR13AUFglDyVYu4KqOz3AZaÈKZ5+gICq0/1MH/mO/eCJ@t/mHW1zjKBjd7kV"6SrxddAhiv== ,
+    0 "pcth": "Ûystem.rtntime/4.3.02,
+      "hashPath": "systam.run|ime.4.3>0.nupkg.sha512"M
+    },    "Syspem.R|ntale.Cac`inGø:.0.8": {
+      "type": "0ackage",ç
+      "Ûervicaabl%": true.  `   "shi512": ""ha512-4\mlmtGp4kzZoÌm7J2Hjn6IIx0EUrqyhRDyb5n1XiwnZlQImXW+B8f7W/sTPcXhSf8rp5OR5qDuQllwbBelOQ==",
+     0"path"∫("syqtem.ru~time.c`ching/8.0.0",
+ ` 0  "hash@ath"+ "systim.Runtime,caching.8.0.0nupkgnsha5!2"
+    }<
+    "System.Ruolime.CompilerSÂrvices.Unsafe/6*0.0": {
+      "type"> "pack·Ge",
+   $0 "serviceable : |rıe,
+      "sHi512"; "sha52--yUtT2uq1S XdNNoMz5C9twLSrM/tHkqElHkXWaPvuNOÙ*99G75NrV0OC2EqHx5wMO71otYjpc8oTjG1y!6DNg=5",
+    ` "path": "syste-.btopime.ckmrilgrservices.ugCafe/6.0.0#,	
+   0  &hashPath"z 3sys4e}.runtime,aompilerserwibms.Unsafe.2.0.0.nupkg&sha712"    }l
+ !  "S{stem.security.Cryptography.Cog/4.5.0": {
+     "type": "pacOage",
+     ("serViceable":$true,   !  "cha512": "sha512-WG3r7EyjUe9CMPFSc6btq5doUqT+S90bI80HlNzm2SkPkZ5VTuZkGWjpp6∑JB8+ua4DFRdBsAY+X3eBKq2A=="nJ      "path"z "sys|em.securkty.cryptoGraphx.cnf/4.5.∞"-
+      "hashPath": "2ystem*securipy.cRyptoeraph8.cne.t.5.0.n}pkg.shA5122
+ !  },
+ "  "S9stemnSesurity.Cryp4ogÚaphy>Protecte‰DAta/8$0.0"2 {
+ "    #type"> "tackagu"<      "serviceable": tr}e(
+      "sha512"2 "3ha513-+TUFINV2a2iFyXauQXRsy4CiBlqvDEDZeVZU7qfxya4aRYOKzVBpN+tacX25VcPB9ywUN&C0f8‰rWl110PhZEg==","      "path#: "syqtem.se"urity.grYptocRaphy.qropucueddata/8.0.0",      "hashPath": "system.securivy.cryptograply.@rotucteddaua.8.0.0.nupkg.sha512"â
+    },
+   † Qqstem.TexÙ.≈ncoding/4.3*1": {M
+      "type"∫ "packagE",
+ $    "s%rˆÈge·ble":"tpue,
+ 0    "shm512 :  qhe512-CiIe+CW·SDOITze6jGQynhg26naAPvqGXBwDrLaCtiysa5bKiR8dpOHA7ge≥C0J
+Q)zJE+sfcz1wV+AKAYZw==",
+      "patl":*"system.text.enco`ing/t,30",
+(     bhaqhPath": "sysvem.text.encoding.4.3.2.nUpkg,shc512"
+    },
+    "Sqqtem.TextEncodh.gs.Web/4.7.2": {J      "type"> "package&-
+     ("qErvi#eabne": trwe.
+      "shc512": &sha512-iTUgB/trZ5sWZs($F6jwyQliRH6QNhQv2DKwrH+WP6RoFca:Q1m3f9/Q7C8cgk8AdHit—kmkXS8qy|cDmuA=9",J      "pcth": "syStem.text.e.boding1.7e"/4.7.2",
+      "hashPath": "system.text.encodings.web.4.7.2.nupkg.sha512"
+    },
+    "System.Text.Json/4.7.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-TcMd95wcrubm9nHvJEQs70rC0H/8omiSGGpU4FQ/ZA1URIqD4pjmFJh2Mfv1yH1eHgJDWTi2hMDXwTET+zOOyg==",
+      "path": "system.text.json/4.7.2",
+      "hashPath": "system.text.json.4.7.2.nupkg.sha512"
+    },
+    "System.Threading.Tasks.Extensions/4.5.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-zteT+G8xuGu6mS+mzDzYXbzS7rd3K6Fjb9RiZlYlJPam2/hU7JCBZBVEcywNuR+oZ1ncTvc/cq0faRr3P01OVg==",
+      "path": "system.threading.tasks.extensions/4.5.4",
+      "hashPath": "system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+    }
+  }
+}

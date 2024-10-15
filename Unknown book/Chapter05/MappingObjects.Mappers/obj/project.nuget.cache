@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "OILefQ8tGYB56whWynM+MvBTNOzw9w9dtGOC/f8KAVhF2jcfoyBd9C9f+tWFKO8CK8AP3I2CXJGOEXKgkBlETA==",
+  "success": true,
+  "projectFilePath": "F:\\Extra Virus\\C#\\Chapter05\\MappingObjects.Mappers\\MappingObjects.Mappers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\taqui\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\taqui\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

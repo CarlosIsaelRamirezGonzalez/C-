@@ -1,0 +1,39 @@
+docker --version [Version de docker]
+docker [Documentacion de docker]
+docker info [Todo lo que esta usando del hardware]
+docker images [Las imagenes que contiene docker]
+docker ps [Los contenedores que tiene docker] (--size)
+docker images --help [Puedes reemplazar images por cualquier comando y te da la documentacion de ese comando]
+docker rmi -f iDImage [Eliminar una imagen]
+
+docker build -t nombreimagen .
+
+docker run -it --rm -d -p --name [it = interactivo, rm = remove cualquier contenedo rejecutandose en segundo plano, -d = se ejecuta en segundo plano, -p = puerto al que nos comunicaremos al host, name = el nombre con el que queremos ideentifical al contenedor]
+
+
+docker images --filter=reference='*:1.0'
+
+docker images --no-trunc
+
+
+docker image tag sitioweb:latest amin/sitioweb:latest
+
+
+docker rmi amin/sitioweb:latest 
+
+docker rmi 5f762ba3fa2d
+
+
+docker run - it --rm -d -p 8080:80 --name web sitioweb
+
+docker stats
+
+
+
+
+docker run -it --rm -d -p 8080:80 -v ./sitio:/usr/share/nginx/html/sitio  --name morthy webrick
+
+
+docker inspect
+docker network ls
+docker network create 

@@ -1,0 +1,14 @@
+F:\Extra Virus\ASPNET\Chapter04\SynchronizingResourceAccess\bin\Debug\net8.0\SynchronizingResourceAccess.exe
+F:\Extra Virus\ASPNET\Chapter04\SynchronizingResourceAccess\bin\Debug\net8.0\SynchronizingResourceAccess.deps.json
+F:\Extra Virus\ASPNET\Chapter04\SynchronizingResourceAccess\bin\Debug\net8.0\SynchronizingResourceAccess.runtimeconfig.json
+F:\Extra Virus\ASPNET\Chapter04\SynchronizingResourceAccess\bin\Debug\net8.0\SynchronizingResourceAccess.dll
+F:\Extra Virus\ASPNET\Chapter04\SynchronizingResourceAccess\bin\Debug\net8.0\SynchronizingResourceAccess.pdb
+F:\Extra Virus\ASPNET\Chapter04\SynchronizingResourceAccess\obj\Debug\net8.0\SynchronizingResourceAccess.GeneratedMSBuildEditorConfig.editorconfig
+F:\Extra Virus\ASPNET\Chapter04\SynchronizingResourceAccess\obj\Debug\net8.0\SynchronizingResourceAccess.AssemblyInfoInputs.cache
+F:\Extra Virus\ASPNET\Chapter04\SynchronizingResourceAccess\obj\Debug\net8.0\SynchronizingResourceAccess.AssemblyInfo.cs
+F:\Extra Virus\ASPNET\Chapter04\SynchronizingResourceAccess\obj\Debug\net8.0\SynchronizingResourceAccess.csproj.CoreCompileInputs.cache
+F:\Extra Virus\ASPNET\Chapter04\SynchronizingResourceAccess\obj\Debug\net8.0\SynchronizingResourceAccess.dll
+F:\Extra Virus\ASPNET\Chapter04\SynchronizingResourceAccess\obj\Debug\net8.0\refint\SynchronizingResourceAccess.dll
+F:\Extra Virus\ASPNET\Chapter04\SynchronizingResourceAccess\obj\Debug\net8.0\SynchronizingResourceAccess.pdb
+F:\Extra Virus\ASPNET\Chapter04\SynchronizingResourceAccess\obj\Debug\net8.0\SynchronizingResourceAccess.genruntimeconfig.cache
+F:\Extra Virus\ASPNET\Chapter04\SynchronizingResourceAccess\obj\Debug\net8.0\ref\SynchronizingResourceAccess.dll

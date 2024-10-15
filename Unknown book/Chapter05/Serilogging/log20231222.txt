@@ -1,0 +1,5 @@
+2023-12-22 16:05:13.783 -06:00 [INF] The global logger has been configured.
+2023-12-22 16:05:13.845 -06:00 [WRN] Danger, Serilog, danger!
+2023-12-22 16:05:13.860 -06:00 [ERR] This is an error!
+2023-12-22 16:05:13.861 -06:00 [FTL] Fatal problem!
+2023-12-22 16:05:13.866 -06:00 [INF] {"ProductId":1,"PageTitle":"Chai","SiteSection":"Beverages","$type":"ProductPageView"} ocurred at "2023-12-22T22:05:13.8623489+00:00"

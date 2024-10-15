@@ -1,0 +1,4 @@
+F:\Extra Virus\ASPNET\Chapter04\AsyncEnumerable\obj\Debug\net8.0\AsyncEnumerable.GeneratedMSBuildEditorConfig.editorconfig
+F:\Extra Virus\ASPNET\Chapter04\AsyncEnumerable\obj\Debug\net8.0\AsyncEnumerable.AssemblyInfoInputs.cache
+F:\Extra Virus\ASPNET\Chapter04\AsyncEnumerable\obj\Debug\net8.0\AsyncEnumerable.AssemblyInfo.cs
+F:\Extra Virus\ASPNET\Chapter04\AsyncEnumerable\obj\Debug\net8.0\AsyncEnumerable.csproj.CoreCompileInputs.cache

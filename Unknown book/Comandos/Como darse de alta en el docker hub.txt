@@ -1,0 +1,17 @@
+Docker Hub es un servicio proporcionado por Docker para encontrar y compartir imágenes de contenedores con su equipo. Más información y búsqueda de imágenes en https://hub.docker.com
+
+Inicie sesión en Docker
+
+docker login -u <nombredeusuario>
+
+Publica una imagen en Docker Hub
+
+docker push <nombre_usuario>/<nombre_imagen>
+
+Buscar una imagen en Hub
+
+docker search <nombre_imagen>
+
+Extraer una imagen de un Docker Hub
+
+docker pull <nombre_imagen>

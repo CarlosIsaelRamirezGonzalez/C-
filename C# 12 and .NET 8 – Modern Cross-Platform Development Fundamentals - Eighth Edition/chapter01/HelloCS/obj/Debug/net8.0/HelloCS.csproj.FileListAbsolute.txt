@@ -1,0 +1,14 @@
+D:\C#\C# 12 and .NET 8 – Modern Cross-Platform Development Fundamentals - Eighth Edition\chapter01\HelloCS\bin\Debug\net8.0\HelloCS.exe
+D:\C#\C# 12 and .NET 8 – Modern Cross-Platform Development Fundamentals - Eighth Edition\chapter01\HelloCS\bin\Debug\net8.0\HelloCS.deps.json
+D:\C#\C# 12 and .NET 8 – Modern Cross-Platform Development Fundamentals - Eighth Edition\chapter01\HelloCS\bin\Debug\net8.0\HelloCS.runtimeconfig.json
+D:\C#\C# 12 and .NET 8 – Modern Cross-Platform Development Fundamentals - Eighth Edition\chapter01\HelloCS\bin\Debug\net8.0\HelloCS.dll
+D:\C#\C# 12 and .NET 8 – Modern Cross-Platform Development Fundamentals - Eighth Edition\chapter01\HelloCS\bin\Debug\net8.0\HelloCS.pdb
+D:\C#\C# 12 and .NET 8 – Modern Cross-Platform Development Fundamentals - Eighth Edition\chapter01\HelloCS\obj\Debug\net8.0\HelloCS.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C# 12 and .NET 8 – Modern Cross-Platform Development Fundamentals - Eighth Edition\chapter01\HelloCS\obj\Debug\net8.0\HelloCS.AssemblyInfoInputs.cache
+D:\C#\C# 12 and .NET 8 – Modern Cross-Platform Development Fundamentals - Eighth Edition\chapter01\HelloCS\obj\Debug\net8.0\HelloCS.AssemblyInfo.cs
+D:\C#\C# 12 and .NET 8 – Modern Cross-Platform Development Fundamentals - Eighth Edition\chapter01\HelloCS\obj\Debug\net8.0\HelloCS.csproj.CoreCompileInputs.cache
+D:\C#\C# 12 and .NET 8 – Modern Cross-Platform Development Fundamentals - Eighth Edition\chapter01\HelloCS\obj\Debug\net8.0\HelloCS.dll
+D:\C#\C# 12 and .NET 8 – Modern Cross-Platform Development Fundamentals - Eighth Edition\chapter01\HelloCS\obj\Debug\net8.0\refint\HelloCS.dll
+D:\C#\C# 12 and .NET 8 – Modern Cross-Platform Development Fundamentals - Eighth Edition\chapter01\HelloCS\obj\Debug\net8.0\HelloCS.pdb
+D:\C#\C# 12 and .NET 8 – Modern Cross-Platform Development Fundamentals - Eighth Edition\chapter01\HelloCS\obj\Debug\net8.0\HelloCS.genruntimeconfig.cache
+D:\C#\C# 12 and .NET 8 – Modern Cross-Platform Development Fundamentals - Eighth Edition\chapter01\HelloCS\obj\Debug\net8.0\ref\HelloCS.dll

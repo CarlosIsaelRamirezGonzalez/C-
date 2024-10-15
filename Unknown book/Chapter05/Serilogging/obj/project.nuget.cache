@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "W9mIzFVvl8wxrNDtcY5xWV7IYnI+94WTMBO5h2i8lcAtwf94OecwiEV+lf8UTBR+VlUUmQU78NAlZa1G+XBOdA==",
+  "success": true,
+  "projectFilePath": "F:\\Extra Virus\\C#\\Chapter05\\Serilogging\\Serilogging.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\taqui\\.nuget\\packages\\serilog\\2.10.0\\serilog.2.10.0.nupkg.sha512",
+    "C:\\Users\\taqui\\.nuget\\packages\\serilog.sinks.console\\4.0.1\\serilog.sinks.console.4.0.1.nupkg.sha512",
+    "C:\\Users\\taqui\\.nuget\\packages\\serilog.sinks.file\\5.0.0\\serilog.sinks.file.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

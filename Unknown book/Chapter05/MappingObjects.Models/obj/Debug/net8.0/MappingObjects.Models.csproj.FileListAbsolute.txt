@@ -1,0 +1,11 @@
+F:\Extra Virus\C#\Chapter05\MappingObjects.Models\bin\Debug\net8.0\MappingObjects.Models.deps.json
+F:\Extra Virus\C#\Chapter05\MappingObjects.Models\bin\Debug\net8.0\MappingObjects.Models.dll
+F:\Extra Virus\C#\Chapter05\MappingObjects.Models\bin\Debug\net8.0\MappingObjects.Models.pdb
+F:\Extra Virus\C#\Chapter05\MappingObjects.Models\obj\Debug\net8.0\MappingObjects.Models.GeneratedMSBuildEditorConfig.editorconfig
+F:\Extra Virus\C#\Chapter05\MappingObjects.Models\obj\Debug\net8.0\MappingObjects.Models.AssemblyInfoInputs.cache
+F:\Extra Virus\C#\Chapter05\MappingObjects.Models\obj\Debug\net8.0\MappingObjects.Models.AssemblyInfo.cs
+F:\Extra Virus\C#\Chapter05\MappingObjects.Models\obj\Debug\net8.0\MappingObjects.Models.csproj.CoreCompileInputs.cache
+F:\Extra Virus\C#\Chapter05\MappingObjects.Models\obj\Debug\net8.0\MappingObjects.Models.dll
+F:\Extra Virus\C#\Chapter05\MappingObjects.Models\obj\Debug\net8.0\refint\MappingObjects.Models.dll
+F:\Extra Virus\C#\Chapter05\MappingObjects.Models\obj\Debug\net8.0\MappingObjects.Models.pdb
+F:\Extra Virus\C#\Chapter05\MappingObjects.Models\obj\Debug\net8.0\ref\MappingObjects.Models.dll

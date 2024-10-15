@@ -1,0 +1,14 @@
+F:\Extra Virus\ASPNET\Chapter04\AsyncConsole\obj\Debug\net8.0\AsyncConsole.GeneratedMSBuildEditorConfig.editorconfig
+F:\Extra Virus\ASPNET\Chapter04\AsyncConsole\obj\Debug\net8.0\AsyncConsole.AssemblyInfoInputs.cache
+F:\Extra Virus\ASPNET\Chapter04\AsyncConsole\obj\Debug\net8.0\AsyncConsole.AssemblyInfo.cs
+F:\Extra Virus\ASPNET\Chapter04\AsyncConsole\obj\Debug\net8.0\AsyncConsole.csproj.CoreCompileInputs.cache
+F:\Extra Virus\ASPNET\Chapter04\AsyncConsole\bin\Debug\net8.0\AsyncConsole.exe
+F:\Extra Virus\ASPNET\Chapter04\AsyncConsole\bin\Debug\net8.0\AsyncConsole.deps.json
+F:\Extra Virus\ASPNET\Chapter04\AsyncConsole\bin\Debug\net8.0\AsyncConsole.runtimeconfig.json
+F:\Extra Virus\ASPNET\Chapter04\AsyncConsole\bin\Debug\net8.0\AsyncConsole.dll
+F:\Extra Virus\ASPNET\Chapter04\AsyncConsole\bin\Debug\net8.0\AsyncConsole.pdb
+F:\Extra Virus\ASPNET\Chapter04\AsyncConsole\obj\Debug\net8.0\AsyncConsole.dll
+F:\Extra Virus\ASPNET\Chapter04\AsyncConsole\obj\Debug\net8.0\refint\AsyncConsole.dll
+F:\Extra Virus\ASPNET\Chapter04\AsyncConsole\obj\Debug\net8.0\AsyncConsole.pdb
+F:\Extra Virus\ASPNET\Chapter04\AsyncConsole\obj\Debug\net8.0\AsyncConsole.genruntimeconfig.cache
+F:\Extra Virus\ASPNET\Chapter04\AsyncConsole\obj\Debug\net8.0\ref\AsyncConsole.dll

@@ -1,0 +1,33 @@
+Comandos dotnet 
+
+dotnet new console -n nombreNuevoProyecto
+
+dotnet tool list --global
+
+dotnet tool uninstall --global dotnet-ef
+
+dotnet new classlib -n Northwind.Common.EntityModels.SqlServer
+
+dotnet ef dbcontext scaffold "Data Source=.;Initial Catalog=Northwind;Integrated Security=true;TrustServerCertificate=True;" Microsoft.EntityFrameworkCore.SqlServer --namespace Packt.Shared --data-annotations
+
+dotnet ef dbcontext scaffold "Data Source=.;Initial Catalog=Northwind;Integrated Security=true;TrustServerCertificate=true;" Microsoft.EntityFrameworkCore.SqlServer --output-dir Models --namespace Northwind.Console.EFCore.Models --data-annotations --context NorthwindDb
+
+dotnet new xunit -n nombre del proyecto de test 
+dotnet test
+
+
+
+dotnet new sln --name MyBlog
+
+dotnet sln MyBlog.sln add ./BlazorWebAssembly\Server\BlazorWebAssembly.Server.csproj
+ 
+
+dotnet new blazorwasm -o BlazorWebAssembly --pwa –-hosted
+
+dotnet new blazorserver -o BlazorServer
+
+		
+	dotnet new blazorwasm -o BlazorWebAssembly --pwa --hosted
+cd BlazorWebAssembly
+dotnet new globaljson --sdk-version 8.0.100
+	

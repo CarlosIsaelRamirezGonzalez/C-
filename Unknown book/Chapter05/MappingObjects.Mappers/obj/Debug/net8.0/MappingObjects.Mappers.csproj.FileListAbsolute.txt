@@ -1,0 +1,15 @@
+F:\Extra Virus\C#\Chapter05\MappingObjects.Mappers\bin\Debug\net8.0\MappingObjects.Mappers.deps.json
+F:\Extra Virus\C#\Chapter05\MappingObjects.Mappers\bin\Debug\net8.0\MappingObjects.Mappers.dll
+F:\Extra Virus\C#\Chapter05\MappingObjects.Mappers\bin\Debug\net8.0\MappingObjects.Mappers.pdb
+F:\Extra Virus\C#\Chapter05\MappingObjects.Mappers\bin\Debug\net8.0\MappingObjects.Models.dll
+F:\Extra Virus\C#\Chapter05\MappingObjects.Mappers\bin\Debug\net8.0\MappingObjects.Models.pdb
+F:\Extra Virus\C#\Chapter05\MappingObjects.Mappers\obj\Debug\net8.0\MappingObjects.Mappers.csproj.AssemblyReference.cache
+F:\Extra Virus\C#\Chapter05\MappingObjects.Mappers\obj\Debug\net8.0\MappingObjects.Mappers.GeneratedMSBuildEditorConfig.editorconfig
+F:\Extra Virus\C#\Chapter05\MappingObjects.Mappers\obj\Debug\net8.0\MappingObjects.Mappers.AssemblyInfoInputs.cache
+F:\Extra Virus\C#\Chapter05\MappingObjects.Mappers\obj\Debug\net8.0\MappingObjects.Mappers.AssemblyInfo.cs
+F:\Extra Virus\C#\Chapter05\MappingObjects.Mappers\obj\Debug\net8.0\MappingObjects.Mappers.csproj.CoreCompileInputs.cache
+F:\Extra Virus\C#\Chapter05\MappingObjects.Mappers\obj\Debug\net8.0\MappingObjects.Mappers.csproj.CopyComplete
+F:\Extra Virus\C#\Chapter05\MappingObjects.Mappers\obj\Debug\net8.0\MappingObjects.Mappers.dll
+F:\Extra Virus\C#\Chapter05\MappingObjects.Mappers\obj\Debug\net8.0\refint\MappingObjects.Mappers.dll
+F:\Extra Virus\C#\Chapter05\MappingObjects.Mappers\obj\Debug\net8.0\MappingObjects.Mappers.pdb
+F:\Extra Virus\C#\Chapter05\MappingObjects.Mappers\obj\Debug\net8.0\ref\MappingObjects.Mappers.dll
